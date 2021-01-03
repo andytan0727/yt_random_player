@@ -13,7 +13,7 @@
     "immer": "^5.1.0",
     "lodash": "^4.17.15",
     "memoize-one": "^5.1.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "normalizr": "^3.4.1",
     "re-reselect": "^3.4.0",
     "react": "^16.12.0",
