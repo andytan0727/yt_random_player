@@ -10,7 +10,7 @@
     "axios": "^0.19.0",
     "classnames": "^2.2.6",
     "fuse.js": "^3.4.6",
-    "immer": "^5.1.0",
+    "immer": "^8.0.1",
     "lodash": "^4.17.15",
     "memoize-one": "^5.1.1",
     "node-sass": "^4.13.0",
